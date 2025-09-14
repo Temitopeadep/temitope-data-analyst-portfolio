@@ -1,0 +1,14 @@
+title: "Adepoju Temitope Elizabeth – Data Analytics Portfolio"
+theme: jekyll-theme-minimal
+logo: assets/temitope-pic.jpg
+description: "Data Analyst | Banking & Business Analytics | Turning Data into Insights and Impact"
+show_downloads: false
+navigation:
+  - name: "About Me"
+    url: about.md
+  - name: "Projects"
+    url: projects.md
+  - name: "Experience"
+    url: experience.md
+  - name: "Contact"
+    url: contact.md
